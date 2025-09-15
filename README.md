@@ -21,7 +21,7 @@ Window functions are key to this analysis.
 * Performance Analysis: Comparing a current measure against a target or a previous period, such as Current Sales vs. Average Sales or Current Year Sales vs. Previous Year Sales. This also uses 
   window functions.
 Proportional Analysis: Calculating the percentage of a part to the whole, such as (Sales / Total Sales) * 100 by category.
-Data Segmentation: Categorizing data into groups, like segmenting customers by age or products by sales range using a CASE WHEN statemen
+Data Segmentation: Categorizing data into groups, like segmenting customers by age or products by sales range using a CASE WHEN statement
 ---
 
 ## ☕ Stay Connected
